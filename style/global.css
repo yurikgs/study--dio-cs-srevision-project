@@ -1,0 +1,17 @@
+:root {
+  --primary-font-color: white;
+  --secondary-font-color: #33A8DB;
+  --background-secondary-color: #252525;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: black;
+  color: var(--primary-font-color);
+  font-size: 16px;
+  text-align: center;
+}
+
+p {
+  line-height: 1.5;
+}
